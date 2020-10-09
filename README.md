@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/markna551/Demo-pyci.svg?branch=main)](https://travis-ci.com/github/markna551/Demo-pyci)  
+[![Build Status](https://travis-ci.com/markna551/Demo-pyci.svg?branch=main)](https://travis-ci.com/github/markna551/Demo-pyci)
+[![codecov](https://codecov.io/gh/markna551/Demo-pyci/branch/main/graph/badge.svg)](https://codecov.io/gh/markna551/Demo-pyci)  
 Continuous Integration Demo
 ============================
 
